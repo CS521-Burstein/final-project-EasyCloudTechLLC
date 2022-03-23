@@ -1,3 +1,3 @@
 Pengchao Wang
 
-Fianl Project
+Final Project
