@@ -19,17 +19,17 @@ Expectations:
 1. Get stock details from an online open source database(S&P 500). Information: Month, Year, Price
 2. Date(after war): 1 month later, 3 months later, 6 months later, 12 months later
 3. select geopolitical/military events:
-               Dec, 1941, Pearl Habor
-               Oct, 1956, Suez Canal crisis
-               Oct, 1962, Cuban missile crisis
-               Oct, 1973, Arab oil embargo
-               Nov, 1979, Iranian hostage crisis
-               Dec, 1979, US.S.R. in Afghanistan
-               Aug, 1990, Iraq invades Kuwait
-               Jan, 1991, Gulf War
-               Aug, 1991, Gorbachev coup
-               Feb, 1993, World Trade Center bombing
-               Sep, 2001, 9/11
-               Mar, 2003, Iraq War
+               Dec, 1941, Pearl Habor |
+               Oct, 1956, Suez Canal crisis |
+               Oct, 1962, Cuban missile crisis |
+               Oct, 1973, Arab oil embargo |
+               Nov, 1979, Iranian hostage crisis |
+               Dec, 1979, US.S.R. in Afghanistan |
+               Aug, 1990, Iraq invades Kuwait |
+               Jan, 1991, Gulf War |
+               Aug, 1991, Gorbachev coup |
+               Feb, 1993, World Trade Center bombing |
+               Sep, 2001, 9/11 |
+               Mar, 2003, Iraq War 
 4. Calculate Average(check to see if the S&P 500 was profitable or losing during wartime)
 5. Generate xlsx.file for final data analysis up or down
