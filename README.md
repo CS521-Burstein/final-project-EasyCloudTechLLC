@@ -17,7 +17,7 @@ in the event of a major war.
 Expectations:
 
 1. Get stock details from an online open source database(S&P 500). Information: Month, Year, Price
-2. Date(after war): 1 month later, 3 months later, 6 months later, 12 months later
+2. Date by month(after war, price change): 1 month later, 3 months later, 6 months later, 12 months later
 3. select geopolitical/military events:
                Dec, 1941, Pearl Habor |
                Oct, 1956, Suez Canal crisis |
