@@ -2,12 +2,34 @@ Pengchao Wang
 
 Final Project
 
-I started to invest in American stocks last year, so I am interested in this project. Compare data on two or more types of stocks to determine which have the best returns.
+Q: How does the impact of a major war on THE U.S. stock market
+
+
+I started to invest in American stocks last year, so I am interested in this project.
 
 Background:
 
-Since THE COVID-19 outbreak in 2020, the US government began to print unlimited money, which led to the crazy rise of stocks. For example, concept stocks like AMC soared from a few dollars to more than 300 dollars. This is a data worthy of study. But people also invest in big tech stocks like Apple (AAPL), Google (GOOG), and Tesla (TSLA). Like when people compare Buffett to arKK. There are a lot of open source data on the Internet, so IN this project, I will compare the return rates of two or more stocks from 2020 On January 1 to 2022 On January 31st.
+The STOCK market in the United States is always doing amazing things. Everything that happens in the world becomes a black swan event. 
+The ongoing local war between Russia and Ukraine is also weighing on U.S. stocks. It is precisely because of these black swan events, 
+such as war, COVID-19, inflation and other issues, that my personal investment is also affected. So I want to compare what happens to the S&P 500 
+in the event of a major war.
 
 Expectations:
 
-Get stock details from an online open source database. Use basic data operation to analyze the final return rate of different types of stocks.
+1. Get stock details from an online open source database(S&P 500). Information: Month, Year, Price
+2. Date(after war): 1 month later, 3 months later, 6 months later, 12 months later
+3. select geopolitical/military events:
+               Dec, 1941, Pearl Habor
+               Oct, 1956, Suez Canal crisis
+               Oct, 1962, Cuban missile crisis
+               Oct, 1973, Arab oil embargo
+               Nov, 1979, Iranian hostage crisis
+               Dec, 1979, US.S.R. in Afghanistan
+               Aug, 1990, Iraq invades Kuwait
+               Jan, 1991, Gulf War
+               Aug, 1991, Gorbachev coup
+               Feb, 1993, World Trade Center bombing
+               Sep, 2001, 9/11
+               Mar, 2003, Iraq War
+4. Calculate Average(check to see if the S&P 500 was profitable or losing during wartime)
+5. Generate xlsx.file for final data analysis up or down
