@@ -16,5 +16,5 @@ Steps:
 1. Get stock "SPY(S&P 500)" details from an online open source database.
 2. Date by month(after events)
 3. Calculate Average, do some operations, logical algorithms to analyze the data.
-4. Get result for final data analysis up or down, if we use $10,000 is the initial capital, 
-and what will the final investment result be?
+4. Get result for final data analysis up or down, if we use $10,000 is the initial capital, and what will the final investment result be.
+
