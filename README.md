@@ -5,7 +5,7 @@ Final Project
 Background:
 
 
-    How does the impact of a major war on THE U.S. stock market. Study the impact of the location of the war on the US stock market.
+How does the impact of a major war on THE U.S. stock market. Study the impact of the location of the war on the US stock market.
 We roughly divide the situation into two categories, black swan events within the United States and black Swan events outside the United States, 
 
 
