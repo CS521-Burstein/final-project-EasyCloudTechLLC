@@ -13,6 +13,3 @@ I will analyze the impact of the following two events on the American stock mark
 Black swan events within the US: Sep, 2001, 9/11
 Black swan events outside the US: Mar, 2003, Iraq War
 
-
-
-| Assuming we invest $10,000 into stock "SPY(S&P 500)"during this period, how long after the event do we get a good return?
