@@ -4,7 +4,6 @@ import pandas as pd
 import yfinance as yf
 import os
 
-
 def get_stock(ticker, start_date, end_date):
     try:
         yf.pdr_override()
